@@ -10,7 +10,7 @@
 
 This project investigates *shirking behavior* in Major League Baseball — the idea that players may reduce effort or performance after signing long-term, guaranteed contracts. Using more than a decade of salary, contract, demographic, and performance data, this thesis evaluates whether contract characteristics such as salary increases and contract length predict declines in player performance.
 
-The research also builds predictive models to forecast shirking for the **2025 free agent class**, offering a data-driven framework that MLB front offices could use to assess contract risk.
+The research also builds predictive models to forecast shirking for the 2025 free agent class, offering a data-driven framework that MLB front offices could use to assess contract risk.
 
 ---
 
@@ -35,15 +35,14 @@ This study expands on past work by including player upbringing (domestic vs. int
 
 ## **Data Sources**
 
-- **Spotrac:** Salary, contract length, contract type, and free agent lists  
-- **Fangraphs:** WAR and performance statistics  
-- **baseballr (R):** Player demographics (including birthplace), WAR, and stat retrieval  
-- **MLB.com / Baseball Savant:** Supplemental player data  
+- **Spotrac:** Salary, contract length, contract type, and free agent list 
+- **Fangraphs:** Player performance statistics  
+- **baseballr (R):** Player demographics (including birthplace), WAR, and stat retrieval   
 - **maps (R):** City population data used to construct market size variables  
 
 Dataset includes **contracts from 2011–2024**, filtered to the top 500 salaries per year and excluding arbitration-only deals.
 
-Birthplace data from `mlb_people` in **baseballr** was used to create an **international player indicator**. Many international players come from economically disadvantaged regions (e.g., Dominican Republic, Venezuela, Cuba), allowing the study to test whether players from these backgrounds display different shirking patterns after securing long-term financial security.
+Birthplace data from `mlb_people` in baseballr was used to create an international player indicator. Many international players come from economically disadvantaged regions (e.g., Dominican Republic, Venezuela, Cuba), allowing the study to test whether players from these backgrounds display different shirking patterns after securing long-term financial security.
 
 Final sample sizes:
 - **898 observations** — batters  
@@ -158,14 +157,3 @@ This framework can help MLB teams:
 - Improve roster construction strategy  
 
 Predictions for superstar players should be interpreted cautiously due to extreme salary distributions, the nature of MLB contracts, and offseason market dynamics.
-
----
-
-## **Files Included**
-*(Add links once files are uploaded)*
-
-- **Final_Thesis.pdf** – Full senior thesis  
-- **code/** – R scripts for data cleaning, modeling, and predictions  
-- **data/** – Raw and cleaned datasets  
-- **figures/** – Visualizations and model outputs  
-- **README.md** – Project documentation  
