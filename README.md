@@ -157,3 +157,11 @@ This framework can help MLB teams:
 - Improve roster construction strategy  
 
 Predictions for superstar players should be interpreted cautiously due to extreme salary distributions, the nature of MLB contracts, and offseason market dynamics.
+
+--- 
+
+## Files Included
+
+- [`thesis_final.pdf`](thesis_final.pdf) – Full paper  
+- [`code/`](code/) – All R scripts for data cleaning, modeling & prediction  
+- [`data/`](data/) – Raw and cleaned datasets used for analysis  
