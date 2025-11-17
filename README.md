@@ -56,9 +56,7 @@ Final sample sizes:
 
 Shirking is defined as:
 
-\[
-\Delta WAR = WAR_{\text{contract year}} - WAR_{\text{first year of new contract}}
-\]
+Delta WAR = WAR(First Year of New Contract) - WAR(Contract Year)
 
 A negative value implies potential shirking.
 
