@@ -1,0 +1,200 @@
+﻿PLAYER (199),POS,AGE,ARMBAT/THROW,PREV WAR,PREV TEAM,PREV AAV,TYPE,MARKET VALUE,WAR
+Max Scherzer,SP,40.2,R,0.43,TEX,"$43,333,333.00",UFA,Market Value,0.43
+Justin Verlander,SP,41.7,R,-0.37,HOU,"$43,333,333.00",UFA,Market Value,-0.37
+Juan Soto,RF,26,L,7.91,NYY,"$31,000,000.00",UFA,Market Value,7.91
+Blake Snell,SP,31.9,L,2.06,SF,"$31,000,000.00",UFA,Market Value,2.06
+Paul Goldschmidt,1B,37.2,R,1.26,STL,"$26,000,000.00",UFA,Market Value,1.26
+Teoscar Hernandez,LF,32,R,4.29,LAD,"$23,500,000.00",UFA,Market Value,4.29
+Patrick Corbin,SP,35.2,L,-0.87,WSH,"$23,333,333.00",UFA,Market Value,-0.87
+Pete Alonso,1B,29.9,R,2.56,NYM,"$20,500,000.00",UFA,Market Value,2.56
+Alex Bregman,3B,30.6,R,4.12,HOU,"$20,000,000.00",UFA,Market Value,4.12
+Charlie Morton,SP,41,R,1.09,ATL,"$20,000,000.00",UFA,Market Value,1.09
+Anthony Rizzo,1B,35.2,L,0.19,NYY,"$20,000,000.00",UFA,Market Value,0.19
+Michael Conforto,LF,31.7,L,1.34,SF,"$18,000,000.00",UFA,Market Value,1.34
+Nathan Eovaldi,SP,34.7,R,2.29,TEX,"$17,000,000.00",UFA,Market Value,2.29
+Josh Bell,1B,32.2,S,-0.93,ARI,"$16,500,000.00",UFA,Market Value,-0.93
+Kenley Jansen,RP,37.1,R,1.34,BOS,"$16,000,000.00",UFA,Market Value,1.34
+Frankie Montas,SP,31.6,R,0.57,MIL,"$16,000,000.00",UFA,Market Value,0.57
+Corbin Burnes,SP,30,R,3.42,BAL,"$15,637,000.00",UFA,Market Value,3.42
+Max Fried,SP,30.8,L,3.44,ATL,"$15,000,000.00",UFA,Market Value,3.44
+Ryan Pressly,RP,35.8,R,0.33,HOU,"$15,000,000.00",VESTED / $14.0M,Market Value,0.33
+Gleyber Torres,2B,27.8,R,1.79,NYY,"$14,200,000.00",UFA,Market Value,1.79
+Yoan Moncada,3B,29.4,S,0.26,CHW,"$14,000,000.00",UFA,Market Value,0.26
+Jack Flaherty,SP,29,R,2.37,LAD,"$14,000,000.00",UFA,Market Value,2.37
+Sean Manaea,SP,32.8,L,3.01,NYM,"$14,000,000.00",UFA,Market Value,3.01
+Mark Canha,LF,35.7,R,0.57,SF,"$13,250,000.00",UFA,Market Value,0.57
+Shane Bieber,SP,29.4,R,0.74,CLE,"$13,125,000.00",UFA,Market Value,0.74
+Jose Quintana,SP,35.8,L,2.53,NYM,"$13,000,000.00",UFA,Market Value,2.53
+Kyle Gibson,SP,37,R,0.95,STL,"$13,000,000.00",UFA,Market Value,0.95
+Luis Severino,SP,30.7,R,1.61,NYM,"$13,000,000.00",UFA,Market Value,1.61
+Nick Martinez,SP,34.2,R,3.98,CIN,"$13,000,000.00",UFA,Market Value,3.98
+Justin Turner,DH,39.9,R,0.27,SEA,"$13,000,000.00",UFA,Market Value,0.27
+Charlie Blackmon,DH,38.3,L,0.63,COL,"$13,000,000.00",UFA / Retired,Market Value,0.63
+Andrew Heaney,SP,33.4,L,0.83,TEX,"$12,500,000.00",UFA,Market Value,0.83
+Ross Stripling,RP,34.9,R,-1.09,ATH,"$12,500,000.00",UFA,Market Value,-1.09
+Joc Pederson,DH,32.5,L,2.85,ARI,"$12,500,000.00",UFA,Market Value,2.85
+Willy Adames,SS,29.2,R,3.2,MIL,"$12,250,000.00",UFA,Market Value,3.2
+Anthony DeSclafani,SP,34.5,R,,MIN,"$12,000,000.00",UFA,Market Value,
+Yusei Kikuchi,SP,33.3,L,0.05,HOU,"$12,000,000.00",UFA,Market Value,0.05
+J.D. Martinez,DH,37.2,R,0.53,NYM,"$12,000,000.00",UFA,Market Value,0.53
+Anthony Santander,RF,30,S,2.93,BAL,"$11,700,000.00",UFA,Market Value,2.93
+David Robertson,RP,39.6,R,1.75,TEX,"$11,500,000.00",UFA,Market Value,1.75
+Lance Lynn,SP,37.5,R,0.3,STL,"$11,000,000.00",UFA,Market Value,0.3
+Christian Walker,1B,33.6,R,2.56,ARI,"$10,900,000.00",UFA,Market Value,2.56
+Harrison Bader,CF,30.4,R,1,NYM,"$10,500,000.00",UFA,Market Value,1
+Aroldis Chapman,RP,36.7,L,0.41,PIT,"$10,500,000.00",UFA,Market Value,0.41
+James McCann,C,34.3,R,0.76,BAL,"$10,150,000.00",UFA,Market Value,0.76
+Alex Cobb,SP,37.1,R,0.25,CLE,"$10,000,000.00",UFA,Market Value,0.25
+Daniel Bard,RP,39.3,R,,COL,"$9,500,000.00",UFA,,
+Manuel Margot,RF,30.1,R,-0.73,TB,"$9,500,000.00",UFA,Market Value,-0.73
+Drew Smyly,RP,35.3,L,0.04,CHC,"$9,500,000.00",UFA,Market Value,0.04
+Matt Moore,RP,35.3,L,-0.46,LAA,"$9,000,000.00",UFA,Market Value,-0.46
+Alex Verdugo,LF,28.4,L,0.68,NYY,"$8,700,000.00",UFA,Market Value,0.68
+Brandon Drury,2B,32.2,R,-2.02,LAA,"$8,500,000.00",UFA,Market Value,-2.02
+Wade Miley,SP,37.9,L,-0.11,MIL,"$8,500,000.00",UFA,,-0.11
+Alex Wood,SP,33.8,L,-0.19,ATH,"$8,500,000.00",UFA,Market Value,-0.19
+Walker Buehler,SP,30.2,R,-1.29,LAD,"$8,025,000.00",UFA,Market Value,-1.29
+Travis d'Arnaud,C,35.8,R,1.17,ATL,"$8,000,000.00",UFA,Market Value,1.17
+Blake Treinen,RP,36.3,R,1.43,LAD,"$8,000,000.00",UFA,Market Value,1.43
+Kendall Graveman,RP,33.8,R,,HOU,"$8,000,000.00",UFA,Market Value,
+Joe Kelly,RP,36.4,R,-0.43,LAD,"$8,000,000.00",UFA,Market Value,-0.43
+Martín Pérez,SP,33.6,L,-0.07,SD,"$8,000,000.00",UFA,Market Value,-0.07
+Nick Pivetta,SP,31.7,R,1.79,BOS,"$7,500,000.00",UFA,Market Value,1.79
+Paul Sewald,RP,34.4,R,0.19,ARI,"$7,350,000.00",UFA,Market Value,0.19
+Eloy Jimenez,LF,27.9,R,-0.52,BAL,"$7,166,667.00",UFA,Market Value,-0.52
+Max Kepler,RF,31.8,L,0.95,MIN,"$7,000,000.00",UFA,Market Value,0.95
+Ha-seong Kim,2B,29,R,2.56,SD,"$7,000,000.00",UFA,Market Value,2.56
+James Paxton,SP,36,L,0.17,BOS,"$7,000,000.00",UFA,Market Value,0.17
+Jake Junis,RP,32.1,R,0.62,CIN,"$7,000,000.00",UFA,Market Value,0.62
+Ty France,1B,30.2,R,-0.19,CIN,"$6,775,000.00",UFA / non-tender,Market Value,-0.19
+Chris Martin,RP,38.4,R,0.21,BOS,"$6,750,000.00",UFA,Market Value,0.21
+Carlos Estevez,RP,31.8,R,1.57,PHI,"$6,750,000.00",UFA,Market Value,1.57
+Trevor Williams,SP,32.5,R,2.55,WSH,"$6,500,000.00",UFA,Market Value,2.55
+Kyle Farmer,SS,34.2,R,-0.32,MIN,"$6,300,000.00",UFA,Market Value,-0.32
+A.J. Minter,RP,31.2,L,1.08,ATL,"$6,220,000.00",UFA,Market Value,1.08
+Clay Holmes,RP,31.6,R,0.68,NYY,"$6,000,000.00",UFA,Market Value,0.68
+Keynan Middleton,RP,31.2,R,,STL,"$6,000,000.00",UFA,Market Value,
+Tyler O'Neill,LF,29.3,R,2.64,BOS,"$5,850,000.00",UFA,Market Value,2.64
+Max Stassi,C,33.6,R,,CHW,"$5,833,333.00",UFA,,
+Tommy Kahnle,RP,35.2,R,0.78,NYY,"$5,750,000.00",UFA,Market Value,0.78
+Luke Jackson,RP,33.2,R,-0.26,ATL,"$5,750,000.00",UFA,Market Value,-0.26
+Tanner Scott,RP,30.2,L,3.35,SD,"$5,700,000.00",UFA,Market Value,3.35
+Yimi Garcia,RP,34.2,R,0.69,SEA,"$5,500,000.00",UFA,Market Value,0.69
+Carlos Santana,1B,38.6,S,2.49,MIN,"$5,250,000.00",UFA,Market Value,2.49
+Danny Jansen,C,29.5,R,0.6,BOS,"$5,200,000.00",UFA,Market Value,0.6
+Jorge Polanco,2B,31.3,S,1.23,SEA,"$5,150,000.00",UFA,Market Value,1.23
+Brooks Raley,RP,36.3,L,0.5,NYM,"$5,000,000.00",UFA,Market Value,0.5
+Will Smith,RP,35.3,L,-0.85,KC,"$5,000,000.00",UFA,Market Value,-0.85
+Joey Gallo,1B,30.9,L,0.28,WSH,"$5,000,000.00",UFA,Market Value,0.28
+Andrew McCutchen,DH,38.1,R,0.8,PIT,"$5,000,000.00",UFA,Market Value,0.8
+Jason Heyward,RF,35.2,L,0.82,HOU,"$5,000,000.00",UFA,Market Value,0.82
+Andrew Chafin,RP,34.3,L,0.49,TEX,"$4,750,000.00",UFA,Market Value,0.49
+Colin Rea,SP,34.3,R,1.22,MIL,"$4,500,000.00",UFA,Market Value,1.22
+Kirby Yates,RP,37.6,R,3.34,TEX,"$4,500,000.00",UFA,Market Value,3.34
+Adam Frazier,2B,32.8,L,0.3,KC,"$4,500,000.00",UFA,Market Value,0.3
+Adam Ottavino,RP,38.9,R,-0.02,NYM,"$4,500,000.00",UFA,Market Value,-0.02
+Michael Lorenzen,SP,32.8,R,1.48,KC,"$4,500,000.00",UFA,Market Value,1.48
+Luis Garcia,RP,37.8,R,0.32,BOS,"$4,250,000.00",UFA,Market Value,0.32
+Austin Slater,LF,31.8,R,-0.31,BAL,"$4,000,000.00",UFA,Market Value,-0.31
+Enrique Hernandez,SS,33.2,R,1.31,LAD,"$4,000,000.00",UFA,Market Value,1.31
+Ryne Stanek,RP,33.2,R,-0.42,NYM,"$4,000,000.00",UFA,Market Value,-0.42
+Ryan Yarbrough,RP,32.8,L,0.36,TOR,"$3,900,000.00",UFA,Market Value,0.36
+José Urquidy,SP,29.5,R,,HOU,"$3,750,000.00",UFA,,
+Jose Leclerc,RP,30.8,R,-0.01,TEX,"$3,687,500.00",UFA,Market Value,-0.01
+Luke Maile,C,33.8,R,-0.36,CIN,"$3,500,000.00",UFA,Market Value,-0.36
+John Means,SP,31.5,L,0.74,BAL,"$3,325,000.00",UFA,,0.74
+Caleb Thielbar,RP,37.8,L,-0.58,MIN,"$3,225,000.00",UFA,Market Value,-0.58
+Scott McGough,RP,35,R,-1.09,ARI,"$3,125,000.00",UFA,,-1.09
+Michael Soroka,SP,27.2,R,0.57,CHW,"$3,000,000.00",UFA,Market Value,0.57
+Gary Sánchez,DH,31.9,R,0.19,MIL,"$3,000,000.00",UFA,Market Value,0.19
+Adam Duvall,RF,36.2,R,-1.37,ATL,"$3,000,000.00",UFA,Market Value,-1.37
+Mike Clevinger,SP,33.8,R,-0.12,CHW,"$3,000,000.00",UFA,Market Value,-0.12
+Tommy Pham,LF,36.7,R,0.03,KC,"$3,000,000.00",UFA,Market Value,0.03
+Lucas Sims,RP,30.5,R,0.82,BOS,"$2,850,000.00",UFA,Market Value,0.82
+Andrew Kittredge,RP,34.6,R,1.56,STL,"$2,630,000.00",UFA,Market Value,1.56
+Jonathan Loaisiga,RP,30,R,0.33,NYY,"$2,500,000.00",UFA,Market Value,0.33
+Yasmani Grandal,C,36,S,0.64,PIT,"$2,500,000.00",UFA,Market Value,0.64
+Caleb Ferguson,RP,28.3,L,-0.63,HOU,"$2,400,000.00",UFA,Market Value,-0.63
+Danny Coulombe,RP,35,L,0.94,BAL,"$2,300,000.00",UFA,Market Value,0.94
+Buck Farmer,RP,33.7,R,1.7,CIN,"$2,250,000.00",UFA,Market Value,1.7
+Scott Alexander,RP,35.3,L,1.23,ATH,"$2,250,000.00",UFA,Market Value,1.23
+Drew Smith,RP,31.1,R,0.18,NYM,"$2,225,000.00",UFA,Market Value,0.18
+Jeff Hoffman,RP,31.8,R,1.99,PHI,"$2,200,000.00",UFA,Market Value,1.99
+Kyle Higashioka,C,34.5,R,1.29,SD,"$2,180,000.00",UFA,Market Value,1.29
+Jacob Stallings,C,34.8,R,1.75,COL,"$2,000,000.00",UFA,Market Value,1.75
+Carlos Carrasco,SP,37.6,R,-1.14,CLE,"$2,000,000.00",UFA,Market Value,-1.14
+Spencer Turnbull,SP,32.1,R,1.22,PHI,"$2,000,000.00",UFA,Market Value,1.22
+Randal Grichuk,RF,33.2,R,2.19,ARI,"$2,000,000.00",UFA,Market Value,2.19
+Jesse Winker,LF,31.2,L,1.86,NYM,"$2,000,000.00",UFA,Market Value,1.86
+Garrett Hampson,SS,30.1,R,0.36,KC,"$2,000,000.00",UFA,,0.36
+Paul DeJong,SS,31.2,R,0.24,KC,"$1,750,000.00",UFA,Market Value,0.24
+Joe Ross,RP,31.4,R,0.48,MIL,"$1,750,000.00",UFA,Market Value,0.48
+Travis Jankowski,DH,33.3,L,0.25,TEX,"$1,700,000.00",UFA,Market Value,0.25
+Jalen Beeks,RP,31.3,L,0.15,PIT,"$1,675,000.00",UFA,Market Value,0.15
+Ryan Borucki,RP,30.6,L,-0.35,PIT,"$1,600,000.00",UFA,Market Value,-0.35
+Genesis Cabrera,RP,28.1,L,-0.15,TOR,"$1,512,500.00",UFA,Market Value,-0.15
+Trevor Gott,RP,32.2,R,,ATH,"$1,500,000.00",UFA,,
+Amed Rosario,SS,28.9,R,0.5,CIN,"$1,500,000.00",UFA,Market Value,0.5
+Justin Wilson,RP,37.2,L,-0.23,CIN,"$1,500,000.00",UFA,Market Value,-0.23
+José Ureña,SP,33.2,R,0.59,TEX,"$1,500,000.00",UFA,Market Value,0.59
+Dominic Leone,RP,33,R,-0.68,CHW,"$1,500,000.00",UFA,Market Value,-0.68
+Jose Iglesias,SS,34.8,R,2.97,NYM,"$1,500,000.00",UFA,Market Value,2.97
+Robbie Grossman,RF,35.1,S,-0.11,KC,"$1,500,000.00",UFA,Market Value,-0.11
+Lou Trivino,RP,33.1,R,,NYY,"$1,500,000.00",UFA,,
+Ben Gamel,RF,32.4,L,0.03,HOU,"$1,200,000.00",UFA,Market Value,0.03
+Josh Taylor,RP,31.7,L,,KC,"$1,100,000.00",UFA,,
+Jose Abreu,1B,37.8,R,-1.67,,"$1,000,000.00",UFA,,-1.67
+Jurickson Profar,LF,31.7,S,3.67,SD,"$1,000,000.00",UFA,Market Value,3.67
+Curt Casali,C,36,R,0.28,SF,"$1,000,000.00",UFA,Market Value,0.28
+Nick Ahmed,SS,34.6,R,-0.13,SD,"$1,000,000.00",UFA,,-0.13
+Erasmo Ramirez,RP,34.5,R,-0.17,TB,"$1,000,000.00",UFA,Market Value,-0.17
+Kevin Newman,SS,31.2,R,2.24,ARI,"$1,000,000.00",UFA,Market Value,2.24
+Kevin Pillar,CF,35.8,R,0.04,LAA,"$1,000,000.00",UFA,Market Value,0.04
+Chase Anderson,RP,36.9,R,-0.4,TEX,"$1,000,000.00",UFA,,-0.4
+Yulieski Gurriel,1B,40.4,R,0.03,KC,"$1,000,000.00",UFA,,0.03
+Elias Diaz,C,33.9,R,1.18,SD,"$1,000,000.00",UFA,Market Value,1.18
+John Brebbia,RP,34.4,R,-0.55,ATL,"$1,000,000.00",UFA,Market Value,-0.55
+Donovan Solano,2B,36.8,R,0.97,SD,"$1,000,000.00",UFA,,0.97
+Hunter Strickland,RP,36.1,R,1.02,LAA,"$850,000.00",UFA,Market Value,1.02
+Luis Frias,RP,26.4,R,-0.41,TOR,"$748,300.00",UFA,,-0.41
+Matt Carpenter,DH,38.9,L,-0.01,STL,"$740,000.00",UFA,Market Value,-0.01
+Jesse Chavez,RP,41.2,R,0.63,ATL,"$740,000.00",UFA,,0.63
+Matt Andriese,RP,35.2,R,-0.08,MIA,"$740,000.00",UFA,Market Value,-0.08
+Matt Boyd,SP,33.8,L,0.72,CLE,"$740,000.00",UFA,Market Value,0.72
+Whit Merrifield,RF,35.8,R,0.1,ATL,"$740,000.00",UFA,Market Value,0.1
+Giovanny Urshela,3B,33.1,R,-0.3,ATL,"$740,000.00",UFA,Market Value,-0.3
+Hector Neris,RP,35.3,R,0.06,HOU,"$740,000.00",UFA,Market Value,0.06
+Jorge López,RP,31.8,R,0.26,CHC,"$740,000.00",UFA,,0.26
+Matt Bowman,RP,33.4,R,0.23,BAL,"$740,000.00",UFA,,0.23
+Tim Hill,RP,34.8,L,-0.4,NYY,"$740,000.00",UFA,,-0.4
+Jacob Barnes,RP,34.5,R,0.06,WSH,"$740,000.00",UFA,,0.06
+C.J. Edwards,RP,33.2,R,0,SD,"$740,000.00",UFA,,0
+Carson Kelly,C,30.2,R,0.7,TEX,"$720,000.00",UFA,Market Value,0.7
+Scott Barlow,RP,31.8,R,0.22,CLE,,UFA,Market Value,0.22
+Shawn Armstrong,RP,34.2,R,-0.52,CHC,,UFA / release,Market Value,-0.52
+Jace Peterson,3B,34.5,L,-0.62,,,UFA,,-0.62
+Brad Wieck,RP,33,L,,,,UFA / release,,
+Tucker Barnhart,C,33.8,L,0.27,,,UFA,,0.27
+Danny Duffy,SP,35.8,L,,,,UFA,,
+Craig Kimbrel,RP,36.4,R,-1.13,BAL,,UFA,Market Value,-1.13
+Rowdy Tellez,1B,29.6,L,-0.35,PIT,,UFA,Market Value,-0.35
+Dylan Floro,RP,33.8,R,1.56,,,UFA / release,Market Value,1.56
+Shelby Miller,RP,34.1,R,0.04,DET,,UFA,Market Value,0.04
+Martin Maldonado,C,38.2,R,-1.32,,,UFA,,-1.32
+Aaron Hicks,CF,35.1,S,-0.67,,,UFA,,-0.67
+Jake Diekman,RP,37.8,L,-0.79,,,UFA,,-0.79
+Jose Cisnero,RP,35.6,R,-0.43,,,UFA,Market Value,-0.43
+Tim Anderson,SS,31.3,R,-1.48,MIA,,UFA,,-1.48
+Brandon Crawford,SS,37.8,L,-0.23,,,UFA,Market Value,-0.23
+Michael A. Taylor,CF,33.6,R,0.87,PIT,,UFA,Market Value,0.87
+Tyler Duffey,RP,33.8,R,-0.01,,,UFA,,-0.01
+Chad Kuhl,RP,32.2,R,0.19,CHW,,UFA,Market Value,0.19
+Chasen Shreve,RP,34.3,L,0.09,,,UFA,,0.09
+Ehire Adrianza,SS,35.2,S,0.08,,,UFA,,0.08
+Johnny Cueto,SP,38.7,R,-0.2,,,UFA,,-0.2
+Rich Hill,SP,44.7,L,-0.01,BOS,,UFA,,-0.01
+Matt Barnes,RP,34.3,R,-0.24,,,UFA,,-0.24
+Brad Keller,SP,29.2,R,0.07,BOS,,UFA,,0.07
+Aledmys Diaz,SS,34.2,R,-0.48,,,UFA,,-0.48
+Miguel Castro,RP,29.8,R,-0.12,ARI,,UFA,,-0.12
+Brian Anderson,3B,31.4,R,-0.15,ATL,,UFA,,-0.15
