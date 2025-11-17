@@ -94,7 +94,8 @@ These feed into the shirking model to predict ΔWAR for upcoming free agents.
 Predictors included:
 - Previous WAR  
 - Previous salary  
-- Previous contract length  
+- Previous contract length
+- Contract Type
 - ISO, wRC+, Games Played (batters)  
 - FIP, IP, Saves, Games Started (pitchers)  
 - Age  
@@ -160,7 +161,7 @@ Predictions for superstar players should be interpreted cautiously due to extrem
 
 --- 
 
-## Files Included
+## **Files Included**
 
 - [thesis_final.pdf](thesis_final.pdf) – Full paper  
 - [code](code/) – All R scripts for data cleaning, modeling & prediction  
