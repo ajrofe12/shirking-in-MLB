@@ -35,7 +35,7 @@ This study expands on past work by including player upbringing (domestic vs. int
 
 ## **Data Sources**
 
-- **Spotrac:** Salary, contract length, contract type, and free agent list 
+- **Spotrac:** Salary, contract length, contract type, and free agent lists
 - **Fangraphs:** Player performance statistics  
 - **baseballr (R):** Player demographics (including birthplace), WAR, and stat retrieval   
 - **maps (R):** City population data used to construct market size variables  
