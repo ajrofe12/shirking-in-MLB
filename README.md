@@ -66,7 +66,7 @@ A negative value implies potential shirking.
 
 A **Generalized Additive Model (GAM)** captures nonlinear relationships:
 
-![War Change Model](assets/images/model_formula.png)
+![WAR Change Model](assets/images/model_formula.png)
 
 Models were run separately for:
 - **Batters**
@@ -78,35 +78,50 @@ Salary outlier tests and RMSE validation were performed.
 
 ![Regression Results](assets/images/regression_results.png)
 
+
+
 ![Model RMSE](assets/images/model_RMSE_analysis.png)
 
 ---
 
 ### **3. Predicting Shirking for 2025 Free Agents**
 
-Two intermediate GAMs were built to predict missing contract variables:
+Two intermediate GAMs were built to predict missing contract variables: **Predicted Salary** and **Predicted Contract Length**.
 
-- **Predicted Salary**  
-- **Predicted Contract Length**
+**For Hitters:**
 
-These feed into the shirking model to predict ΔWAR for upcoming free agents.
+![Batter Model](assets/images/batter_model_formula.png)
 
-Predictors included:
-- Previous WAR  
-- Previous salary  
-- Previous contract length
-- Contract Type
-- ISO, wRC+, Games Played (batters)  
-- FIP, IP, Saves, Games Started (pitchers)  
-- Age  
-- Market size  
-- New team indicator  
+**For Pitchers:**
 
-Accuracy:
-- Salary model RMSE ≈ **$3.3M**  
-- Contract length RMSE ≈ **1 year**
+![Pitcher Model](assets/images/pitcher_model_formula.png)
+
+These predictions then feed into the main shirking model to generate ΔWAR forecasts for 2025 free agents.
+
+**Salary + Contract Length RMSE:**
+
+![Salary & Contract Length RMSE](assets/images/salary_contract_RMSE.png)
 
 ---
+
+### **Top Predicted Decliners – Hitters (2025 Free Agents)**
+
+![Hitter Top 10](assets/images/hitter_top_10.png)
+
+### **Lowest Predicted Decliners – Hitters (2025 Free Agents)**
+
+![Hitter Bottom 10](assets/images/hitter_bot_10.png)
+
+### **Top Predicted Decliners – Pitchers (2025 Free Agents)**
+
+![Pitcher Top 10](assets/images/pitcher_top_10.png)
+
+### **Lowest Predicted Decliners – Pitchers (2025 Free Agents)**
+
+![Pitcher Bottom 10](assets/images/pitcher_bot_10.png)
+
+---
+
 
 ## **Key Findings**
 
