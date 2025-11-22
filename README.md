@@ -66,9 +66,7 @@ A negative value implies potential shirking.
 
 A **Generalized Additive Model (GAM)** captures nonlinear relationships:
 
-\[
-WAR\_Change ~ s(Age) + Salary\_Change + Contract\_Length + MarketSize + NewTeam + MultipleTeams + International + ContractType_{FA→FA} + (NewTeam \times MarketSize)
-\]
+![War Change Model](assets/images/model_formula.png)
 
 Models were run separately for:
 - **Batters**
@@ -77,6 +75,10 @@ Models were run separately for:
 An indicator for **international players** was included to examine whether upbringing or economic background affects shirking behavior. This tests the hypothesis that players from disadvantaged regions may be highly motivated early in their careers but could exhibit reduced effort once major financial security is achieved.
 
 Salary outlier tests and RMSE validation were performed.
+
+![Regression Results](assets/images/regression_results.png)
+
+![Model RMSE](assets/images/model_RMSE_analysis.png)
 
 ---
 
