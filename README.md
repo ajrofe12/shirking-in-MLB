@@ -35,14 +35,14 @@ This study expands on past work by including player upbringing (domestic vs. int
 
 ## **Data Sources**
 
-- **Spotrac:** Salary, contract length, contract type, and free agent lists
+- **Spotrac:** Salary, contract length, contract type, and free agent lists  
 - **Fangraphs:** Player performance statistics  
-- **baseballr (R):** Player demographics (including birthplace), WAR, and stat retrieval   
+- **baseballr (R):** Player demographics (including birthplace), WAR, and stat retrieval  
 - **maps (R):** City population data used to construct market size variables  
 
 Dataset includes **contracts from 2011–2024**, filtered to the top 500 salaries per year and excluding arbitration-only deals.
 
-Birthplace data from `mlb_people` in baseballr was used to create an international player indicator. Many international players come from economically disadvantaged regions (e.g., Dominican Republic, Venezuela, Cuba), allowing the study to test whether players from these backgrounds display different shirking patterns after securing long-term financial security.
+Birthplace data from `mlb_people` in baseballr was used to create an international player indicator. Many international players come from economically disadvantaged regions (e.g., Dominican Republic, Venezuela, Cuba), allowing exploration of whether players from these backgrounds display different shirking patterns once they secure long-term financial security.
 
 Final sample sizes:
 - **898 observations** — batters  
@@ -78,8 +78,6 @@ Salary outlier tests and RMSE validation were performed.
 
 ![Regression Results](assets/images/regression_results.png)
 
-
-
 ![Model RMSE](assets/images/model_RMSE_analysis.png)
 
 ---
@@ -103,25 +101,6 @@ These predictions then feed into the main shirking model to generate ΔWAR forec
 ![Salary & Contract Length RMSE](assets/images/salary_contract_RMSE.png)
 
 ---
-
-### **Top Predicted Decliners – Hitters (2025 Free Agents)**
-
-![Hitter Top 10](assets/images/hitter_top_10.png)
-
-### **Lowest Predicted Decliners – Hitters (2025 Free Agents)**
-
-![Hitter Bottom 10](assets/images/hitter_bot_10.png)
-
-### **Top Predicted Decliners – Pitchers (2025 Free Agents)**
-
-![Pitcher Top 10](assets/images/pitcher_top_10.png)
-
-### **Lowest Predicted Decliners – Pitchers (2025 Free Agents)**
-
-![Pitcher Bottom 10](assets/images/pitcher_bot_10.png)
-
----
-
 
 ## **Key Findings**
 
@@ -159,6 +138,26 @@ These outputs highlight how nonlinear salary distributions influence GAM forecas
 
 ---
 
+## **2025 Free Agent Prediction Tables**
+
+### **Top Predicted Decliners – Hitters**
+
+![Hitter Top 10](assets/images/hitter_top_10.png)
+
+### **Lowest Predicted Decliners – Hitters**
+
+![Hitter Bottom 10](assets/images/hitter_bot_10.png)
+
+### **Top Predicted Decliners – Pitchers**
+
+![Pitcher Top 10](assets/images/pitcher_top_10.png)
+
+### **Lowest Predicted Decliners – Pitchers**
+
+![Pitcher Bottom 10](assets/images/pitcher_bot_10.png)
+
+---
+
 ## **Conclusion**
 
 Results provide strong evidence that MLB players experience performance declines after receiving:
@@ -174,7 +173,7 @@ This framework can help MLB teams:
 
 Predictions for superstar players should be interpreted cautiously due to extreme salary distributions, the nature of MLB contracts, and offseason market dynamics.
 
---- 
+---
 
 ## **Files Included**
 
