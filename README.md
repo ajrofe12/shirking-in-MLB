@@ -50,6 +50,16 @@ Final sample sizes:
 
 ---
 
+## **Summary Statistics**
+
+
+![Summary Stats Table 1](assets/images/summary_stats_1.png)
+
+
+![Summary Stats Table 2](assets/images/summary_stats_2.png)
+
+___
+
 ## **Methodology**
 
 ### **1. Measuring Shirking**
