@@ -80,6 +80,20 @@ Salary outlier tests and RMSE validation were performed.
 
 ![Model RMSE](assets/images/model_RMSE_analysis.png)
 
+### **Model Results & RMSE Interpretation**
+
+Across all four GAMs (batters and pitchers, with and without salary outliers), the results were highly consistent. In every specification, **salary change** and **contract length** remained significant predictors of ΔWAR with **negative coefficients**, reinforcing the core shirking hypothesis:
+
+- Larger raises → larger performance declines  
+- Longer contracts → greater first-year drop-off  
+
+Market size, team change for hitters, and the international upbringing proxy did not show meaningful effects. For pitchers, however, **switching teams showed a positive and significant impact**, suggesting improved performance when moving to a new organizational environment, coaching staff, or pitch development system.
+
+Removing salary outliers did **not** alter the substantive results. Coefficients remained similar in magnitude and significance, indicating the patterns observed were not driven by extreme contract values.
+
+To assess model performance, I compared **full models** (including salary change + contract length) with **reduced models** (excluding those variables) using an 80/20 train-test split. In both hitter and pitcher datasets, the **full models produced lower RMSE values**, demonstrating stronger predictive accuracy. This confirms that contract characteristics are not only statistically significant—they meaningfully improve the model’s ability to predict performance decline.
+
+
 ---
 
 ### **3. Predicting Shirking for 2025 Free Agents**
