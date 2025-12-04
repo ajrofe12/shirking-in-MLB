@@ -154,19 +154,19 @@ These outputs highlight how nonlinear salary distributions influence GAM forecas
 
 ## **2025 Free Agent Prediction Tables**
 
-### **Top Predicted Decliners – Hitters**
+### **Top Predicted WAR Change – Hitters**
 
 ![Hitter Top 10](assets/images/hitter_top_10.png)
 
-### **Lowest Predicted Decliners – Hitters**
+### **Lowest Predicted WAR Change – Hitters**
 
 ![Hitter Bottom 10](assets/images/hitter_bot_10.png)
 
-### **Top Predicted Decliners – Pitchers**
+### **Top Predicted WAR Change – Pitchers**
 
 ![Pitcher Top 10](assets/images/pitcher_top_10.png)
 
-### **Lowest Predicted Decliners – Pitchers**
+### **Lowest Predicted WAR Change – Pitchers**
 
 ![Pitcher Bottom 10](assets/images/pitcher_bot_10.png)
 
