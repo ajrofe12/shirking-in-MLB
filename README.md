@@ -199,8 +199,8 @@ Predictions for superstar players should be interpreted cautiously due to extrem
 
 ---
 
-## **Files Included**
-
-- [thesis_final.pdf](thesis_final.pdf) – Full paper  
-- [code](code/) – All R scripts for data cleaning, modeling & prediction  
-- [data](data/) – Raw and cleaned datasets used for analysis  
+## Files Included
+- `thesis_final.pdf` – Full thesis paper
+- `code/` – R scripts for data collection, cleaning, modeling, and prediction
+- `data/` – Raw and cleaned datasets
+- `images/` – Tables and figures referenced in this README
